@@ -2,6 +2,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LoveLifeEveryday&show_icons=true&theme=dracula)
 
 
+![TaroXin Language](http://repo-charts.taroxin.cn/api/repo/languageChart?owner=LoveLifeEveryday)
 
 
 1. `Name`：许灿友
