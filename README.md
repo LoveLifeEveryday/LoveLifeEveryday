@@ -1,4 +1,8 @@
 ## 自我介绍
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LoveLifeEveryday&show_icons=true&theme=dracula)
+
+
+
 
 1. `Name`：许灿友
 2. `Github`: https://github.com/LoveLifeEveryday
